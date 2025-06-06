@@ -1,0 +1,17 @@
+We use python for machine learrning .
+Why so?
+
+
+The reasons are listed below:-
+1. Python is very easy to use: Its libraries make it a perfect match for learning new operations and Also AI/ML/DL
+2.Python has multiple libraries and Frameworks which can be used by a developer to perform various operations.
+     Python libraries: 
+           (a) NumPy : Used to create multidimentional arrays and perform different operations on those arrays
+           (b) Pandas : Out of different data items and data files , Panda libraries are used to perform different operations on Those data sets
+           (c) SeaBorn : It includes some statistical analysis within their libraries and also to visualize the datasets and perform statistical analysis within those datasets
+           (d)SkykitsLearn: This is the library which is widely accepted and known to be most suitable for ML
+    Python Frameworks: (Used for situating neural networks in Deep learning
+           (a)Tensor Flow
+           (b) Keras
+           (c)PYtorch
+3. Community and Coorporate support.
