@@ -10,7 +10,7 @@ The reasons are listed below:-
            (b) Pandas : Out of different data items and data files , Panda libraries are used to perform different operations on Those data sets
            (c) SeaBorn : It includes some statistical analysis within their libraries and also to visualize the datasets and perform statistical analysis within those datasets
            (d)SkykitsLearn: This is the library which is widely accepted and known to be most suitable for ML
-    Python Frameworks: (Used for situating neural networks in Deep learning
+    Python Frameworks: Used for situating neural networks in Deep learning
            (a)Tensor Flow
            (b) Keras
            (c)PYtorch
