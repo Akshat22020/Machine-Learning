@@ -14,4 +14,4 @@ The reasons are listed below:-
            (a)Tensor Flow
            (b) Keras
            (c)PYtorch
-3. Community and Coorporate support.
+3. Community and Coorporate support.~
