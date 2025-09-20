@@ -2,10 +2,34 @@
 
 This repository is a hands-on collection of Jupyter Notebooks as I learn Machine Learning from scratch, primarily following Krish Naik’s YouTube playlist. 📺
 
-## 📂 Folder Structure
-- `EDA/` – Exploratory Data Analysis
-- `Regression/` – Linear & Polynomial Regression
-- `Feature Engineering/` – Encoding, Scaling, etc.
+# 📂 Repository Structure - Machine Learning
+
+```bash
+MACHINE-LEARNING/
+│
+├── 📁 Basics of python
+│   └── Notes and formatted explanations
+│
+├── 📁 Exploratory Data Analysis
+│   └── Naive Bayes' Theorem for classification and Conditional Probability
+│
+├── 📁 Hyperparameter Optimization
+│   └── Hyperparameter tuning using XGBoost
+│
+├── 📁 Libraries
+│   └── Pyforest library and other utilities
+│
+├── 📁 My Projects
+│   └── Bank Fraud Detection and Imbalanced Data Handling
+│
+├── 📁 OOPs in Python
+│   └── Data abstraction and inheritance concepts
+│
+├── 📄 README.md
+│
+└── 📄 Why Python.txt
+    └── Notes on Pandas and Python usage
+
 
 ## 🛠️ Tools & Libraries
 - Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
